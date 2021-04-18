@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="A.txt" timeToArrive="12:30" outfileName="a.out.txt">
+     <format>
+         <field name="customername" maxlength="80"/>
+         <field name="address" maxlength="120"/>
+         <field name="ordervalue" maxlength="10"/>
+     </format>
+</file>
